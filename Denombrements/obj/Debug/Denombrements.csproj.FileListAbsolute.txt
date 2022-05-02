@@ -1,0 +1,7 @@
+G:\test\testVisualStudio2019\Denombrements\Denombrements\bin\Debug\Denombrements.exe.config
+G:\test\testVisualStudio2019\Denombrements\Denombrements\bin\Debug\Denombrements.exe
+G:\test\testVisualStudio2019\Denombrements\Denombrements\bin\Debug\Denombrements.pdb
+G:\test\testVisualStudio2019\Denombrements\Denombrements\obj\Debug\Denombrements.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\Denombrements\Denombrements\obj\Debug\Denombrements.exe
+G:\test\testVisualStudio2019\Denombrements\Denombrements\obj\Debug\Denombrements.pdb
+G:\test\testVisualStudio2019\Denombrements\Denombrements\obj\Debug\Denombrements.csprojAssemblyReference.cache
